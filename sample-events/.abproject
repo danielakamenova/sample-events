@@ -1,0 +1,54 @@
+{
+  "ProjectGuid": "1d805696-d4ad-41be-bb5a-521558346da1",
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "AppIdentifier": "com.telerik.sampleevents",
+  "ProjectName": "sample-events",
+  "AndroidPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE",
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "iOSStatusBarStyle": "Default",
+  "BundleVersion": "1.0",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "AndroidVersionCode": "1",
+  "AndroidHardwareAcceleration": "true",
+  "FrameworkVersion": "4.0.0",
+  "CorePlugins": [
+    "cordova-plugin-battery-status",
+    "cordova-plugin-network-information",
+    "cordova-plugin-splashscreen",
+    "cordova-plugin-whitelist"
+  ],
+  "DisplayName": "Events",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_HD720P",
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA"
+  ],
+  "Author": "",
+  "WP8Publisher": "",
+  "WP8TileTitle": "",
+  "WP8Capabilities": [],
+  "iOSBackgroundMode": [],
+  "WP8Requirements": [],
+  "Description": "sample-events",
+  "Framework": "Cordova",
+  "CordovaPluginVariables": {
+    "com.telerik.mobiletesting": {
+      "IOS_APP_URL": ""
+    }
+  },
+  "projectVersion": 1,
+  "WP8PublisherID": "{d8ed976e-cd4d-40af-a5b9-f293296f9a21}",
+  "WP8ProductID": "{665f0b94-6f4b-4567-9584-aeba696f0adf}",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.sampleevents",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WPSdk": "8.1"
+}

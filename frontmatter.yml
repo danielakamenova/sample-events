@@ -1,0 +1,8 @@
+title: Events
+slug: sample-events
+page_title: Events | Apache Cordova Sample | Telerik Platform
+description: This sample shows you how to work with the main Apache Cordova lifecycle events.
+tags: Apache Cordova, core, events, deviceready, pause, resume, online, offline, batterystatus, iOS, Android, Windows Phone
+publish: true
+content_filter: true
+apis: cordova.events cordova.events.deviceready cordova.events.pause cordova.events.resume cordova.events.offline cordova.events.online cordova.events.batterystatus
